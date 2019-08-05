@@ -18,3 +18,4 @@ def main(task_length):
 if __name__ == "__main__":
     task_length = 100
     main(task_length)
+    input()
